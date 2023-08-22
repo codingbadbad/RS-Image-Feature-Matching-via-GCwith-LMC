@@ -7,7 +7,7 @@
 	run eva.py to see a classification demo
 
 ./Implementation data is our evalution data; 
-	pool is our  Swimming Pool Dataset ;
+	pool is our Pool Dataset ;
 	FPV :FPV Dataset;
 	random cropping  :Random Cropping datasets
 	low inlier rate sort by mtop	lpm	lmr	gms	ours	oanet
